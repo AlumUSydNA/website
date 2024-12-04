@@ -1,6 +1,4 @@
 main:
-  - title: "Home"
-    url: "/"
   - title: "Privacy policy"
     url: /privacy-policy/
 #  - title: "International networks "

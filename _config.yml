@@ -13,17 +13,19 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "Sydney University Graduates Union North America"
+#title: "Sydney University Graduates Union North America"
+title: "SUGUNA"
 #subtitle: "SUGUNA"
-masthead_title: "SUGUNA"
-logo: "/assets/images/suguna-logo-88x88.png"
+#masthead_title: "SUGUNA"
+#logo: "/assets/images/suguna-logo-88x88.png"
+masthead_title: " "
+logo: /assets/images/SUGUNA-logo5-banner-shield.png
 #email: alumni.suguna@usydnorthamerica.org
-description: >- # this means to ignore newlines until nextitem
+description: >- # this means to ignore newlines until next item
   SUGUNA website
 url: https://usydnorthamerica.org # your custom domain
 baseurl: "" # leave this blank for a custom domain
 #baseurl: "/suguna-minimalm" 
-minimal_mistakes_skin: default
 #search: true
 
 minimal_mistakes_skin: "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
