@@ -19,7 +19,9 @@ title: "Sydney University Graduates Union North America"
 #email: alumni.suguna@usydnorthamerica.org
 description: >- # this means to ignore newlines until nextitem
   SUGUNA website
-baseurl: "/suguna-minimalm" 
+url: https://usydnorthamerica.org # your custom domain
+baseurl: "" # leave this blank for a custom domain
+#baseurl: "/suguna-minimalm" 
 twitter_username: THESUGUNA
 linkedin_username: sydney-university-graduates-union-north-america
 #github_username: username
