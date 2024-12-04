@@ -3,9 +3,56 @@
 search: false
 ---
 
-/*body.home .masthead {
-  display: none;
-} */
+//.masthead {
+//  background-color: #ce1126ff; /* Replace #your-color-code with your desired background color */
+//}
+
+//.masthead__inner-wrap {
+//  background-color: #ce1126ff; /* Replace #your-color-code with your desired background color */
+//}
+
+
+//.masthead__menu {
+//  background-color: #ce1126ff; /* Replace #your-color-code with your desired background color */
+//}
+
+.masthead {
+  //background-color: #your-color-code;
+  padding: 20px 0; /* Default padding */
+}
+
+.masthead .site-logo img {
+  max-width: 100%; /* Ensures the logo scales responsively */
+  padding: 10px; /* Adjust padding around the logo */
+  background-color: #ce1126ff; /* Replace #your-color-code with your desired background color */
+  max-height: 100px; /* Default logo height */
+  width: auto;
+}
+
+@media (max-width: 768px) {
+  .masthead {
+    padding: 15px 0; /* Reduce padding for smaller screens */
+  }
+
+.masthead .site-logo img {
+    max-height: 90px; /* Scale down logo for smaller screens */
+  }
+}
+
+/* Adjust the font size of the title in the header overlay */
+h1#page-title.page__title {
+  font-size: 2rem; /* Set your desired font size */
+  //line-height: 1.2; /* Adjust line height for better spacing */
+  //text-align: center; /* Optional: Center align the text */
+  //color: #ffffff; /* Optional: Set the font color */
+}
+
+/* Responsive adjustment for smaller screens */
+@media (max-width: 768px) {
+  header.page__header .page-title {
+    font-size: 2rem; /* Reduce font size on smaller screens */
+  }
+}
 
 
 .logo-container {
@@ -16,7 +63,7 @@ search: false
 }
 
 .logo-container img {
-  width: 100%;    
+  width: 40%;    
   max-width: 100%;
   height: auto;
   max-width: 1200px; /* Optional, to prevent it from growing too large */

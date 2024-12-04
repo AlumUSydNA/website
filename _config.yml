@@ -13,8 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-#title: "Sydney University Graduates Union North America"
-title: "SUGUNA"
+title: "Sydney University Graduates Union North America"
 #subtitle: "SUGUNA"
 #masthead_title: "SUGUNA"
 #logo: "/assets/images/suguna-logo-88x88.png"
@@ -71,6 +70,5 @@ footer:
       url: "https://twitter.com/THESUGUNA"
     - label: "Privacy policy"
       icon: "fas fa-shield-alt"
-      #icon: "fab fa-fw fa-shield"
       url: "/privacy-policy/"
 
