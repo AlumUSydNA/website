@@ -1,11 +1,12 @@
 ## Who can join?
 
-Membership of SUGUNA is open to all graduates of the University, former students
-whose study did not proceed to the awarding of a degree, former
-faculty members or employees, and/or any other person who has, as
-goals, the promotion of academic excellence and material prosperity
-for the University. It is intended to be for people who primarily
-reside in one of the three North American countries.
+Membership of SUGUNA is open to all graduates of the [University of
+Sydney](https://sydney.edu.au), former students whose study did not
+proceed to the awarding of a degree, former faculty members or
+employees, and/or any other person who has, as goals, the promotion of
+academic excellence and material prosperity for the University. It is
+intended to be for people who primarily reside in one of the three
+North American countries.
 
 ## How can I join?
 

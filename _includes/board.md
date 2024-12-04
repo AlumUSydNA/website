@@ -1,6 +1,6 @@
 ## Who are we?
 
-We are a community of people who support the University of Sydney in North America, including alumni, past employees and faculty and friends of the University.
+We are a community of people who support the [University of Sydney](https://sydney.edu.au) in North America, including alumni, past employees and faculty and friends of the University.
 
 Current Board of Directors
 
