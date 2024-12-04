@@ -17,8 +17,9 @@ title: "Sydney University Graduates Union North America"
 #subtitle: "SUGUNA"
 #masthead_title: "SUGUNA"
 #email: alumni.suguna@usydnorthamerica.org
-description: >- # this means to ignore newlines until "baseurl:"
+description: >- # this means to ignore newlines until nextitem
   SUGUNA website
+baseurl: "/suguna-minimalm" 
 twitter_username: THESUGUNA
 linkedin_username: sydney-university-graduates-union-north-america
 #github_username: username
@@ -28,9 +29,6 @@ minimal_mistakes_skin: default
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
-
-include:
-  - _includes/head-custom.html
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

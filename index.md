@@ -11,13 +11,13 @@ hide_header: true
 excerpt: >
   Main website for Sydney University Graduates Union North America (SUGUNA).
 intro: 
-  - excerpt: "This Sydney University Graduates Union North America (SUGUNA) is a 501(c)7 not-for-profit organisation that promotes the interests of the University of Sydney and its engagement with alumni in North America (United States, Canada and Mexico)."
+  - excerpt: "The Sydney University Graduates Union North America (SUGUNA) is a 501(c)7 not-for-profit organisation that promotes the interests of the University of Sydney and its engagement with alumni in North America (United States, Canada and Mexico)."
 
 ---
 
 <!-- Logo and Banner -->
 <div style="align:center; text-align: center; margin: 20px 0; background-color: #ce1126ff;">
-<img src="/assets/images/SUGUNA-logo5-banner-shield.png" alt="SUGUNA Logo" style="max-width: 1200px;">
+<img src="{{ site.baseurl }}/assets/images/SUGUNA-logo5-banner-shield.png" alt="SUGUNA Logo" style="max-width: 1200px;">
 </div>
 
 {% include feature_row id="intro" type="center" %} 
