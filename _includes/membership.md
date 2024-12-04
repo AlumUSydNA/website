@@ -23,8 +23,9 @@ mailing list - it's that simple.
 
 Joining SUGUNA and the mailing list **does not** update your details
 with the University. Although we closely collaborate with the
-University as a peer organizations, we are a separate US-based
-non-profit organization, and are not part of the University.  We also
-encourage you to **[update your
+University as part of the the University of Sydney's [international
+networks](https://www.sydney.edu.au/engage/alumni/get-involved/networks/international.html),
+we are a separate US-based non-profit organization, and are not part
+of the University.  We also encourage you to **[update your
 details](https://www.sydney.edu.au/engage/alumni/update-your-details.html)**
 with the University directly.

@@ -3,8 +3,23 @@
 search: false
 ---
 
-body.layout--splash .masthead {
+body.home .masthead {
   display: none;
+}
+
+
+.logo-container {
+  width: 100%;
+  text-align: center;
+  margin: 20px 0;
+  background-color: #ce1126ff;
+}
+
+.logo-container img {
+  width: 100%;    
+  max-width: 100%;
+  height: auto;
+  max-width: 1200px; /* Optional, to prevent it from growing too large */
 }
 
 
@@ -25,3 +40,4 @@ body.layout--splash .masthead {
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+

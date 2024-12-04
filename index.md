@@ -3,8 +3,8 @@ layout: splash
 permalink: /
 classes: 
   - wide
-  - dark-theme
   - landing
+  - home
 #header:
 #  image: /assets/images/SUGUNA-logo5-banner-shield.png
 hide_header: true
@@ -16,8 +16,8 @@ intro:
 ---
 
 <!-- Logo and Banner -->
-<div style="align:center; text-align: center; margin: 20px 0; background-color: #ce1126ff;">
-<img src="{{ site.baseurl }}/assets/images/SUGUNA-logo5-banner-shield.png" alt="SUGUNA Logo" style="max-width: 1200px;">
+<div class="logo-container">
+  <img src="{{ site.baseurl }}/assets/images/SUGUNA-logo5-banner-shield.png" alt="SUGUNA Logo">
 </div>
 
 {% include feature_row id="intro" type="center" %} 
