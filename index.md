@@ -11,7 +11,7 @@ hide_header: true
 excerpt: >
   Main website for Sydney University Graduates Union North America (SUGUNA).
 intro: 
-  - excerpt: "The Sydney University Graduates Union North America (SUGUNA) is a 501(c)7 not-for-profit organisation that promotes the interests of the University of Sydney and its engagement with alumni in North America (United States, Canada and Mexico)."
+  - excerpt: "The Sydney University Graduates Union North America (SUGUNA) is the association for alumni, students, associates and friends of the University of Sydney in North America. We are a United States-based 501(c)7 not-for-profit organisation that works with alumni and the extended USyd community and to support the University and each other."
 
 ---
 
