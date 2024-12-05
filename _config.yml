@@ -19,7 +19,8 @@ title: "Sydney University Graduates Union North America"
 #logo: "/assets/images/suguna-logo-88x88.png"
 masthead_title: " "
 logo: /assets/images/SUGUNA-logo5-banner-shield.png
-#email: alumni.suguna@usydnorthamerica.org
+# encoded email alumni.suguna address
+email_base64: YWx1bW5pLnN1Z3VuYUB1c3lkbm9ydGhhbWVyaWNhLm9yZw==
 description: >- # this means to ignore newlines until next item
   SUGUNA website
 url: https://usydnorthamerica.org # your custom domain
@@ -34,6 +35,9 @@ include: ["_pages"]
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
+
+head_scripts:
+  - /assets/js/email-obfuscation.js
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -71,4 +75,3 @@ footer:
     - label: "Privacy policy"
       icon: "fas fa-shield-alt"
       url: "/privacy-policy/"
-

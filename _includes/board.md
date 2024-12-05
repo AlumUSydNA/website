@@ -8,10 +8,10 @@ Current Board of Directors
 - Alex Lancaster, Vice-President
 - Fred Kam, Treasurer
 - Patrick (Paddy) Ward, Secretary
-- Chris Lawrance
-- Wanda M Haschek-Hock
 - Julia Elmer
-- Angela Wales Kirgo
 - Ronald Ettinger
 - Jenny Green
+- Wanda M Haschek-Hock
+- Chris Lawrance
+- Angela Wales Kirgo
 - Louisa Teo

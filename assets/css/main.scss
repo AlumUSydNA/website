@@ -54,19 +54,20 @@ h1#page-title.page__title {
   }
 }
 
-
 .logo-container {
-  width: 100%;
+  //width: 100%;
   text-align: center;
-  margin: 20px 0;
+  //margin: 20px 0;
   background-color: #ce1126ff;
+    
 }
 
 .logo-container img {
-  width: 40%;    
-  max-width: 100%;
-  height: auto;
-  max-width: 1200px; /* Optional, to prevent it from growing too large */
+  width: 100%;    
+  //max-width: 100%;
+  max-height: 180px;
+  //height: auto;
+  //max-width: 1200px; /* Optional, to prevent it from growing too large */
 }
 
 

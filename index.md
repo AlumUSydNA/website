@@ -44,8 +44,5 @@ excerpt: >
    {{ my_include | markdownify }}
   </div>
 </div>
+	
 
-<!-- Logo and Banner -->
-<div class="logo-container">
-  <img src="{{ site.baseurl }}/assets/images/SUGUNA-logo5-banner-shield.png" alt="SUGUNA Logo">
-</div>
