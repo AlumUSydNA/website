@@ -27,6 +27,8 @@ url: https://usydnorthamerica.org # your custom domain
 baseurl: "" # leave this blank for a custom domain
 #baseurl: "/suguna-minimalm" 
 #search: true
+atom_feed:
+  hide: true
 
 minimal_mistakes_skin: "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
