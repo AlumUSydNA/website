@@ -12,6 +12,6 @@ Current Board of Directors
 - Ronald Ettinger
 - Jenny Green
 - Wanda M Haschek-Hock
-- Chris Lawrance
+- Christopher Lawrance
 - Angela Wales Kirgo
 - Louisa Teo
