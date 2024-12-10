@@ -21,6 +21,7 @@ masthead_title: " "
 logo: /assets/images/SUGUNA-logo5-banner-shield.png
 # encoded email alumni.suguna address
 email_base64: YWx1bW5pLnN1Z3VuYUB1c3lkbm9ydGhhbWVyaWNhLm9yZw==
+news_email_base64: bmV3c0B1c3lkbm9ydGhhbWVyaWNhLm9yZw==
 description: >- # this means to ignore newlines until next item
   SUGUNA website
 url: https://usydnorthamerica.org # your custom domain
