@@ -3,7 +3,7 @@
 SUGUNA was founded in 1990 by William Lew, Warwick Harvey-Smith and
 Clifford Kwan-Gett who contacted their classmates that they knew to be
 in North America. In addition they placed an advertisement in the
-Gazette and obtained a listing of Sydney University graduates in the
+*Gazette* and obtained a listing of Sydney University graduates in the
 U.S.A. and Canada. The first meeting was hesld in 1991 and Annual
 Conferences were run from 1991-2017.
 
