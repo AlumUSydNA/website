@@ -5,6 +5,13 @@
 
 This consists of a sterling silver plate donated by Jim Wolfensohn awarded annually to a SUGUNA member in recognition of academic or other achievements. Past recipients of this award are as follows:
 
+
+- 2018 - Timothy Potts
+- 2017 - Derek Raghavan
+- 2016 - Virginia L Hood
+- 2015 - Ramune Cobb
+- 2014 - Graeme Goodsir	
+- 2013 - Wanda M. Haschek-Hock
 - 2012 - R. Julian C. Brown
 - 2011 - Ronald L Ettinger (BDS '66 MDS '70)
 - 2010 - Michael D Challis (BE(Civil) '54)
