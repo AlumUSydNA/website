@@ -17,7 +17,7 @@ header:
   caption: "Photo credit: [**Ian Sanderson**](https://www.flickr.com/photos/iansand/2705636883/)"
   #caption: "Photo credit: SUGUNA"
 excerpt: >
-   <br/><small>Sydney University Graduates Union North America is the association for alumni, students, associates and friends of the University of Sydney in North America.</small>
+   <br/>Sydney University Graduates Union North America is the association for alumni, students, associates and friends of the University of Sydney in North America.
 ---
 
 <!--  <small>We work with alumni and the extended North American USyd community and to support the University and each other.</small> -->
