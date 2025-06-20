@@ -1,3 +1,9 @@
+---
+permalink: /history/
+layout: splash
+classes: wide
+---
+
 ### SUGUNA History
 
 SUGUNA was founded in 1990 by William Lew, Warwick Harvey-Smith and
