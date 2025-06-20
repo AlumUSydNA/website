@@ -11,7 +11,7 @@ Current Board of Directors
 - Julia Elmer
 - Ronald Ettinger
 - Jenny Green
-- Wanda M Haschek-Hock
 - Christopher Lawrance
+- Xaever Mand
 - Angela Wales Kirgo
 - Louisa Teo
