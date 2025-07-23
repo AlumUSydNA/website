@@ -33,16 +33,47 @@ welcome into our group students from USyd who are here temporarily as
 part of their studies or training, and we are proud to represent the
 interests of our members in North America.
 
-## Save the date for the AGM!
 
-Get involved with charting the future of SUGUNA! We will be holding a
-virtual joint **Special Meeting and Annual General Meeting** (AGM) on
-**August 11, 2025**. More details will be posted soon, but the program
-will likely feature a welcome from the Vice-Chancellor and a guest
-speaker. Members will be voting to approve [these
+<div style="border: 2px solid #0073ff; background-color: #f0f8ff; padding: 1em; border-radius: 8px; display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; text-align: left;">
+
+  <div style="flex: 1 1 50%; text-align: center; padding-left: 2em; padding-right: 2em;">
+    {% capture right_box %}
+## Join your fellow alumni at the AGM!
+
+**Date & Time:**  
+August 11, 2025 – 07:00-8:15 PM ET
+
+[Register on Zoom](https://us06web.zoom.us/webinar/register/WN_79c-fwfpT6iGxgLpDpxZVA#/registration){: .btn .btn--primary .btn--large style="background-color: #CE1126; font-size: 1.5em; padding: 0.8em 1.5em;"}
+<br/><small style="font-size: 60%;">(Existing members have been sent an invitation.<br/>If you have not received yours, you can register above)</small>
+
+
+    {% endcapture %}
+    {{ right_box | markdownify }}
+	<!--    <a href="https://us06web.zoom.us/webinar/register/WN_79c-fwfpT6iGxgLpDpxZVA#/registration">
+			<img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Zoom_Communications_Logo.svg" alt="Zoom Icon" style="width: 256px; height: 96px; display: block; margin: 0 auto 0.5em;">
+		</a> -->
+
+  </div>
+
+  <div style="flex: 1 1 50%; padding-left: 1em; padding-right: 0.5em;">
+{% capture left_box %}
+
+Meet your fellow USyd alumni and get involved with charting the future of
+SUGUNA! We will be holding a virtual joint **Special Meeting and
+Annual General Meeting** (AGM) on **August 11, 2025**.  The program
+will feature a welcome from the Vice-Chancellor.
+
+Members will be voting to approve [these
 amendments](assets/downloads/suguna-bylaws-amendments-2025-04-06.pdf)
 to the by-laws to make SUGUNA more responsive and allow for better
-operation in the online environment.
+operation in the online environment.  
+{% endcapture %}
+{{ left_box | markdownify }}
+  </div>
+
+
+</div>
+
 
 <div class="page__hero--overlay" style="margin: 0;">
   <div class="page__hero-image" style="
