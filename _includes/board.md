@@ -41,13 +41,11 @@ Health Emeritus at George Washington University.
 <div class="board-degree">BSc '91, BE(Elec) '94</div>
 <div class="board-bio">
 Dr Alex K Lancaster is an evolutionary biologist, engineer, writer and
-consultant. He is a Research Scholar at the Ronin Institute, a
-Research Affiliate at the University of Sydney, an Institute for
-Globally Distributed Open Research and Education affiliate, and a
-Partner at Cambridge, Massachusetts-based Amber Biology. Dr Lancaster
-has over 15 years of experience in many aspects of computational and
-systems biology, including pioneering work in complex systems
-research.
+consultant. He is an affiliate of the Institute for Globally
+Distributed Open Research and Education, and a Partner at Cambridge,
+Massachusetts-based Amber Biology. Dr Lancaster has over 20 years of
+experience in many aspects of computational and systems biology,
+including pioneering work in complex systems research.
 </div>
 </details>
 
