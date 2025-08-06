@@ -44,7 +44,7 @@ interests of our members in North America.
 August 11, 2025 – 07:00-8:15 PM ET
 
 [Register on Zoom](https://us06web.zoom.us/webinar/register/WN_79c-fwfpT6iGxgLpDpxZVA#/registration){: .btn .btn--primary .btn--large style="background-color: #CE1126; font-size: 1.5em; padding: 0.8em 1.5em;"}
-<br/><small style="font-size: 60%;">(Existing members have been sent an invitation.<br/>If you have not received yours, you can register above)</small>
+<br/><small style="font-size: 60%;">Existing members have been sent an invitation.<br/>If you have not received yours, you can register above.<br/>If you cannot attend in person, you can vote by proxy,<br/>[contact us](#contact-us) to receive a proxy ballot.</small>
 
 
     {% endcapture %}
@@ -63,10 +63,14 @@ SUGUNA! We will be holding a virtual joint **Special Meeting and
 Annual General Meeting** (AGM) on **August 11, 2025**.  The program
 will feature a welcome from the Vice-Chancellor.
 
-Members will be voting to approve [these
-amendments](assets/downloads/suguna-bylaws-amendments-2025-04-06.pdf)
-to the by-laws to make SUGUNA more responsive and allow for better
-operation in the online environment.  
+Members will be voting to:
+
+1. approve [these
+   amendments](assets/downloads/suguna-bylaws-amendments-2025-04-06.pdf)
+   to the by-laws to make SUGUNA more responsive and allow for better
+   operation in the online environment.
+
+2. elect the Board of Directors, all the [current Board are candidates, see below for biographies](#board-of-directors)
 {% endcapture %}
 {{ left_box | markdownify }}
   </div>
@@ -123,11 +127,15 @@ operation in the online environment.
 
 <div class="two-column-layout">
   <div class="column">
-   {% capture my_include %}{% include board.md %}{% endcapture %}
+   {% capture my_include %}{% include who-are-we.md %}{% endcapture %}
    {{ my_include | markdownify }}
+   
+   {% capture my_include %}{% include contact.md %}{% endcapture %}
+   {{ my_include | markdownify }}
+   
     </div>
   <div class="column">
-   {% capture my_include %}{% include contact.md %}{% endcapture %}
+   {% capture my_include %}{% include board.md %}{% endcapture %}
    {{ my_include | markdownify }}
   </div>
 </div>
