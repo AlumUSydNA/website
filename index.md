@@ -41,7 +41,7 @@ interests of our members in North America.
 <br/>
 # Join your fellow alumni at the Annual General Meeting!
 ## Date & Time: 
-### August 11, 2025 – 07:00-8:15 PM ET
+### August 11, 2025 – 7:00-8:15 PM ET
 
 <br/>
 
@@ -62,7 +62,7 @@ interests of our members in North America.
 
 Meet your fellow USyd alumni and get involved with charting the future
 of SUGUNA! We will be holding a virtual joint **Special Meeting and
-Annual General Meeting** (AGM) on **August 11, 2025**.  
+Annual General Meeting** (AGM) on **Monday, August 11, 2025**.  
 
 The program will feature a welcome from the Vice-Chancellor, Mark
 Scott AO, highlighting **SUGUNA's 35th anniversary**, along with the
