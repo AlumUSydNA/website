@@ -134,7 +134,16 @@ student recruitment in most parts of the world at one time or another.
 <summary>Xaever Mand (2027)</summary>
 <div class="board-degree">BArch '12, MAarch '16</div>
 <div class="board-bio">
-TBA
+Xaever Mand is based in New York City where he runs his own studio,
+EndoExo, a design practice exploring the intersection of Architecture,
+Object Design and Art. He also teaches at the New Jersey Institute of
+Technology, having previously taught at the University of Sydney and
+Kean University. Xaever graduated from the University of Sydney with a
+Bachelor of Design in Architecture and a Masters of Architecture,
+following which he worked for architecture firms in Sydney, London and
+New York City , with notable completed projects including the Sir John
+Monash Centre at the Australian War Memorial in Villers-Bretonneux,
+France and the Port Lands Bridges in Toronto, Canada.
 </div>
 </details>
 
