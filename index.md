@@ -65,7 +65,7 @@ of SUGUNA! We will be holding a virtual joint **Special Meeting and
 Annual General Meeting** (AGM) on **August 11, 2025**.  
 
 The program will feature a welcome from the Vice-Chancellor, Mark
-Scott AO, highlighting SUGUNA's 35th anniversary, along with the
+Scott AO, highlighting **SUGUNA's 35th anniversary**, along with the
 [175th anniversary of the University of Sydney
 itself](https://www.sydney.edu.au/about-us/our-story/175.html).
 
