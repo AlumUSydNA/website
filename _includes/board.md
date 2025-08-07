@@ -90,7 +90,7 @@ National Bank's first Multicultural Banking Strategy Leader.
 </details>
 
 <details>
-<summary>Ronald Ettinger <strong>Past President</strong> (2026)</summary>
+<summary>Ronald Ettinger <strong>President Emeritus</strong> (2026)</summary>
 <div class="board-degree">BDS ’66, MDS ’70, DDSc ’92</div>
 <div class="board-bio">
 Dr Ron Ettinger is an alumnus of the University of Sydney, and also
