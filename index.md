@@ -38,10 +38,12 @@ interests of our members in North America.
 
   <div style="flex: 1 1 50%; text-align: center; padding-left: 2em; padding-right: 2em;">
     {% capture right_box %}
-## Join your fellow alumni at the AGM!
+<br/>
+# Join your fellow alumni at the Annual General Meeting!
+## Date & Time: 
+### August 11, 2025 – 07:00-8:15 PM ET
 
-**Date & Time:**  
-August 11, 2025 – 07:00-8:15 PM ET
+<br/>
 
 [Register on Zoom](https://us06web.zoom.us/webinar/register/WN_79c-fwfpT6iGxgLpDpxZVA#/registration){: .btn .btn--primary .btn--large style="background-color: #CE1126; font-size: 1.5em; padding: 0.8em 1.5em;"}
 <br/><small style="font-size: 60%;">Existing members have been sent an invitation.<br/>If you have not received yours, you can register above.<br/>If you cannot attend in person, you can vote by proxy,<br/>[contact us](#contact-us) to receive a proxy ballot.</small>
@@ -60,10 +62,11 @@ August 11, 2025 – 07:00-8:15 PM ET
 
 Meet your fellow USyd alumni and get involved with charting the future
 of SUGUNA! We will be holding a virtual joint **Special Meeting and
-Annual General Meeting** (AGM) on **August 11, 2025**.  The program
-will feature a welcome from the Vice-Chancellor, Mark Scott AO,
-highlighting SUGUNA's 35th anniversary, along with the [175th
-anniversary of the University of Sydney
+Annual General Meeting** (AGM) on **August 11, 2025**.  
+
+The program will feature a welcome from the Vice-Chancellor, Mark
+Scott AO, highlighting SUGUNA's 35th anniversary, along with the
+[175th anniversary of the University of Sydney
 itself](https://www.sydney.edu.au/about-us/our-story/175.html).
 
 Members will be voting to:
