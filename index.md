@@ -58,10 +58,13 @@ August 11, 2025 – 07:00-8:15 PM ET
   <div style="flex: 1 1 50%; padding-left: 1em; padding-right: 0.5em;">
 {% capture left_box %}
 
-Meet your fellow USyd alumni and get involved with charting the future of
-SUGUNA! We will be holding a virtual joint **Special Meeting and
+Meet your fellow USyd alumni and get involved with charting the future
+of SUGUNA! We will be holding a virtual joint **Special Meeting and
 Annual General Meeting** (AGM) on **August 11, 2025**.  The program
-will feature a welcome from the Vice-Chancellor.
+will feature a welcome from the Vice-Chancellor, Mark Scott AO,
+highlighting SUGUNA's 35th anniversary, along with the [175th
+anniversary of the University of Sydney
+itself](https://www.sydney.edu.au/about-us/our-story/175.html).
 
 Members will be voting to:
 
