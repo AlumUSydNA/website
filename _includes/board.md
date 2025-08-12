@@ -54,7 +54,7 @@ Health Emeritus at George Washington University.
 <summary>Fred Kam <strong>Treasurer</strong> (2027)</summary>
 <div class="board-degree">BSc ’80 BE (Civil) ’82 ME ‘83</div>
 <div class="board-bio">
-TBA
+Even though Fred’s degrees are in engineering, his entire career was spent in IT. In 1994 he joined the Wall Street firm PaineWebber in New York, supporting the Mutual Funds business. In 2000, the Swiss bank UBS, acquired PaineWebber. Fred became involved with the client communication portfolio that included client statements, trade confirms, and client letters.  In 2024, he retired as an IT Director after 30 years of service with UBS. Fred also served as the President of SUGUNA in 2015.
 
 </div>
 </details>
