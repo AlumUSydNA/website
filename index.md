@@ -39,10 +39,12 @@ interests of our members in North America.
   <div style="flex: 1 1 50%; text-align: center; padding-left: 2em; padding-right: 2em;">
     {% capture right_box %}
 <br/>
-### Thanks for a great Annual General Meeting!
+# Thank you for a great Annual General Meeting!
 
 Thank you all for joining us **August 11, 2025 – 7:00-8:00 PM ET** for
-the SUGUNA AGM!  We were thrilled to see over 80 of you from across
+the SUGUNA Special Meeting and AGM!
+
+We were thrilled to see over 80 of you from across
 Canada, Mexico, the United States, and Australia.
 
 The program featured a welcome from the Vice-Chancellor, Mark
@@ -77,6 +79,9 @@ We’re pleased to report that:
    
 *  We welcome Alex Lancaster, as the new President of SUGUNA, upon
    Richard Southby stepping down to become President Emeritus.
+
+*  A follow-up virtual networking event is scheduled for Monday, Sept
+   15th, from 8-9 PM ET. Details will be forthcoming.
 
 {% endcapture %}
 {{ left_box | markdownify }}
