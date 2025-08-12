@@ -69,19 +69,21 @@ itself](https://www.sydney.edu.au/about-us/our-story/175.html).
 {% capture left_box %}
 We’re pleased to report that:
 
-*  The [proposed
+*  <sub>The [proposed
    amendments](assets/downloads/suguna-bylaws-amendments-2025-04-06.pdf)
-   to the SUGUNA Bylaws are now official.  
+   to the SUGUNA Bylaws are now official.  </sub>
    
-*  The Board of Directors have been elected with staggered terms
+*  <sub>The Board of Directors have been elected with staggered terms
    ending in 2026 and 2027. See [Board of
-   Directors](#board-of-directors) below.
+   Directors](#board-of-directors) below.</sub>
    
-*  We welcome Alex Lancaster, as the new President of SUGUNA, upon
-   Richard Southby stepping down to become President Emeritus.
+*  <sub>We welcome Alex Lancaster, as the new President of SUGUNA, upon
+   Richard Southby stepping down to become President Emeritus.</sub>
 
-*  A follow-up virtual networking event is scheduled for Monday, Sept
-   15th, from 8-9 PM ET. Details will be forthcoming.
+*  <sub>A follow-up virtual networking event is scheduled for Monday, Sept
+   15th, from 8-9 PM ET. Members will receive details soon via our
+   mailing list, you can also [join SUGUNA](#join-suguna) if you are
+   not yet a member.</sub>
 
 {% endcapture %}
 {{ left_box | markdownify }}
