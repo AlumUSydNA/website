@@ -71,7 +71,7 @@ We’re pleased to report that:
 
 *  <sub>The [proposed
    amendments](assets/downloads/suguna-bylaws-amendments-2025-04-06.pdf)
-   to the SUGUNA Bylaws are now official.  </sub>
+   to the SUGUNA Bylaws are now [official](assets/downloads/suguna-bylaws-2025.pdf).  </sub>
    
 *  <sub>The Board of Directors have been elected with staggered terms
    ending in 2026 and 2027. See [Board of
