@@ -22,7 +22,21 @@ details summary {
 <sub>Click on name to view biography.</sub>
 
 <details>
-<summary>Richard F. Southby <strong>President</strong> (2026)</summary>
+<summary>Alex Lancaster <strong>President</strong> (2027)</summary>
+<div class="board-degree">BSc '91, BE(Elec) '94</div>
+<div class="board-bio">
+
+Dr Alex K Lancaster is an evolutionary biologist, engineer, writer and
+consultant. He is an affiliate of the Institute for Globally
+Distributed Open Research and Education, and a Partner at Cambridge,
+Massachusetts-based Amber Biology. Dr Lancaster has over 20 years of
+experience in many aspects of computational and systems biology,
+including pioneering work in complex systems research.
+</div>
+</details>
+
+<details>
+<summary>Richard F. Southby <strong>President Emeritus</strong> (2026)</summary>
 <div class="board-degree">PhD(Med), Monash FFPHM</div>
 <div class="board-bio">
 Dr Richard Southby has studied at the University of Melbourne, Cornell
@@ -33,19 +47,6 @@ Commission, and has held teaching and research positions at Monash
 University, the University of Sydney and George Washington
 University. He is currently Dean and Distinguished Professor of Global
 Health Emeritus at George Washington University.
-</div>
-</details>
-
-<details>
-<summary>Alex Lancaster <strong>Vice-President</strong> (2027)</summary>
-<div class="board-degree">BSc '91, BE(Elec) '94</div>
-<div class="board-bio">
-Dr Alex K Lancaster is an evolutionary biologist, engineer, writer and
-consultant. He is an affiliate of the Institute for Globally
-Distributed Open Research and Education, and a Partner at Cambridge,
-Massachusetts-based Amber Biology. Dr Lancaster has over 20 years of
-experience in many aspects of computational and systems biology,
-including pioneering work in complex systems research.
 </div>
 </details>
 
@@ -90,7 +91,7 @@ National Bank's first Multicultural Banking Strategy Leader.
 </details>
 
 <details>
-<summary>Ronald Ettinger <strong>President Emeritus</strong> (2026)</summary>
+<summary>Ronald Ettinger (2026)</summary>
 <div class="board-degree">BDS ’66, MDS ’70, DDSc ’92</div>
 <div class="board-bio">
 Dr Ron Ettinger is an alumnus of the University of Sydney, and also
@@ -172,5 +173,4 @@ and reception and the Association’s annual Boston dinner.
 </div>
 </details>
 
-<sub>The current board is up for election at the 2025 AGM. The ending year
-is the year their term will end if elected at this AGM.</sub>
+<sub>Each Director's two-year term ends in the year above.</sub>
