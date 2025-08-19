@@ -2,6 +2,12 @@
 permalink: /about-us/
 layout: splash
 classes: wide
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/usyd-jacaranda.jpg
+  caption: "Photo credit: [**Ian Sanderson**](https://www.flickr.com/photos/iansand/2705636883/)"
+
 ---
 
 # About Us
