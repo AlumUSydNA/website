@@ -63,6 +63,8 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
+header:
+  image: /assets/images/usyd-jacaranda.jpg
   
 footer:
   links:

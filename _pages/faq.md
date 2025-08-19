@@ -63,7 +63,7 @@ You can [update your details](#membership-details-updates) such as email address
 <summary>Why am I a “member” instead of just a “subscriber”?</summary>
 
 Being a member allows you to vote on SUGUNA’s direction!
-SUGUNA is a US-based 501(c)(7) tax-exempt social club. Our [by-laws](assets/downloads/suguna-bylaws-2025.pdf) give ultimate control to members, typically exercised via the AGM. This mailing list helps track members, determine quorums, and notify members of AGMs and membership-wide actions.
+SUGUNA is a US-based 501(c)(7) tax-exempt social club. Our [by-laws](/assets/downloads/suguna-bylaws-2025.pdf) give ultimate control to members, typically exercised via the AGM. This mailing list helps track members, determine quorums, and notify members of AGMs and membership-wide actions.
 
 - **Joining the mailing list** = becoming a member in good standing.
 - **Leaving the mailing list** = stepping down as a member.
@@ -95,11 +95,11 @@ Optional items help communicate relevant regional events. Mailchimp may also tra
 <summary>How do I update my details such as email address or location?</summary>
 
 
-1. Click **Update your preferences** link at end of any email sent via the mailing list. See below for where to find this link: ![Email footer](assets/images/suguna-update-email-1.png).
+1. Click **Update your preferences** link at end of any email sent via the mailing list. See below for where to find this link: ![Email footer](/assets/images/suguna-update-email-1.png).
 
-2. Clicking on the link will send you to a webpage with a button to “Email Me a Link”, see below: ![Email Me a Link page](assets/images/suguna-update-email-2.png).
+2. Clicking on the link will send you to a webpage with a button to “Email Me a Link”, see below: ![Email Me a Link page](/assets/images/suguna-update-email-2.png).
 
-3. Clicking this button will send you an email with a link to a page that will allow you to modify your details. On this page you can update information (e.g. email address, location) that needs to be changed, and then save. ![Details update page](assets/images/suguna-update-email-3.png).
+3. Clicking this button will send you an email with a link to a page that will allow you to modify your details. On this page you can update information (e.g. email address, location) that needs to be changed, and then save. ![Details update page](/assets/images/suguna-update-email-3.png).
 
 The link that is emailed to you expires within 24 hours for security and ensures that only you can modify your own preferences, otherwise anyone with access to the email could change your details.
 
