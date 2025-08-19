@@ -37,8 +37,9 @@ Year of conference and location
 
 
 <details markdown="1">
-<summary>Wolfensohn Award recipient's</summary>
+<summary>Wolfensohn Award recipients</summary>
 
+- 2024 - Geraldine Brooks
 - 2022 - Charles Mackenzie
 - 2018 - Timothy Potts
 - 2017 - Derek Raghavan
@@ -71,6 +72,7 @@ Year of conference and location
 <details markdown="1">
 <summary>Challis Award recipients</summary>
 
+- 2024 - Alexander Lancaster
 - 2022 - Barry Catchlove
 - 2012 – Portia Tierney McKenna
 </details>
