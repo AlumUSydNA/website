@@ -83,6 +83,22 @@ h1#page-title.page__title {
   min-width: 300px;
 }
 
+// use sitewide for consistency in expandable sections
+details summary {
+  cursor: pointer;
+  font-weight: 600;
+  margin-bottom: 0.25em;
+  font-size: 1em;        /* normal size for summary */
+  color: black;          /* summary color */
+}
+
+details > *:not(summary) {
+  font-size: 0.9em;      /* slightly smaller content */
+  color: rgba(0, 0, 0, 0.75);
+  padding-left: 1.5em;   /* indent content */
+}
+
+
 
 @charset "utf-8";
 

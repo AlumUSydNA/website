@@ -18,7 +18,8 @@ update your contact information, such as email address. Membership
 dues are not required.
 
 If you wish to leave as a SUGUNA member - simply unsubscribe from the
-mailing list - it's that simple.
+mailing list - it's that simple.  Read more on managing your
+membership and the mailing list on our [FAQ](/faq/).
 
 ## Updating your details with the University
 
