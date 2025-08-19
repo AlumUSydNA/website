@@ -12,16 +12,36 @@ header:
 ---
 
 <script>
-document.addEventListener("DOMContentLoaded", function () {
-  if (location.hash) {
-    const el = document.querySelector(location.hash);
-    if (el && el.tagName.toLowerCase() === "details") {
-      el.open = true;
-    }
+document.addEventListener("DOMContentLoaded", () => {
+  function openDetails(hash) {
+    if (!hash) return;
+    const el = document.querySelector(hash);
+    if (!el || el.tagName.toLowerCase() !== "details") return;
+
+    // Open the <details>
+    el.open = true;
+
+    // Scroll AFTER a small delay so the browser can adjust layout
+    setTimeout(() => {
+      el.scrollIntoView({ behavior: "smooth", block: "start" });
+    }, 50);
   }
+
+  // Open on initial load if URL has a hash
+  openDetails(location.hash);
+
+  // Open when hash changes (clicking internal links)
+  window.addEventListener("hashchange", () => openDetails(location.hash));
+
+  // Open when user clicks an internal link
+  document.querySelectorAll('a[href^="#"]').forEach(link => {
+    link.addEventListener("click", (e) => {
+      // hash hasn’t updated yet, so wait until next tick
+      setTimeout(() => openDetails(location.hash), 0);
+    });
+  });
 });
 </script>
-
 
 ## Purpose and activities
 
@@ -50,7 +70,7 @@ For example, SUGUNA was involved in promoting changes in Australian law to allow
 
 If you’re receiving emails from the SUGUNA Mailchimp mailing list (sent from a "usydnorthamerica.org" email address), you are a member. Membership does not need to be renewed and is ongoing unless you request removal (this is now [a self-serve process](#mailing-list-leaving-suguna), as is [updating your membership details](#membership-details-updates)).
 
-If you cannot locate an email, and are unsure of your status, please [contact us](#contact-us) first and we can check otherwise you may create a duplicate registration.
+If you cannot locate an email, and are unsure of your status, please [contact us](#email-us) first and we can check otherwise you may create a duplicate registration.
 
 </details>
 
@@ -99,15 +119,21 @@ Optional items help communicate relevant regional events. Mailchimp may also tra
 <summary>How do I update my details such as email address or location?</summary>
 
 
-1. Click **Update your preferences** link at end of any email sent via the mailing list. See below for where to find this link: ![Email footer](/assets/images/suguna-update-email-1.png).
+1. Click **Update your preferences** link at end of any email sent via the mailing list. See below for where to find this link: 
 
-2. Clicking on the link will send you to a webpage with a button to “Email Me a Link”, see below: ![Email Me a Link page](/assets/images/suguna-update-email-2.png).
+   ![Email footer](/assets/images/suguna-update-email-1.png).
 
-3. Clicking this button will send you an email with a link to a page that will allow you to modify your details. On this page you can update information (e.g. email address, location) that needs to be changed, and then save. ![Details update page](/assets/images/suguna-update-email-3.png).
+2. Clicking on the link will send you to a webpage with a button to “Email Me a Link”, see below:
+
+   ![Email Me a Link page](/assets/images/suguna-update-email-2.png).
+
+3. Clicking this button will send you an email with a link to a page that will allow you to modify your details. On this page you can update information (e.g. email address, location) that needs to be changed, and then save.
+
+   ![Details update page](/assets/images/suguna-update-email-3.png).
 
 The link that is emailed to you expires within 24 hours for security and ensures that only you can modify your own preferences, otherwise anyone with access to the email could change your details.
 
-If you cannot find an email, or are unsure if you are signed up as a member, [contact us](#contact-us).
+If you cannot find an email, or are unsure if you are signed up as a member, [contact us](#email-us).
 
 Note: If you unsubscribe completely, you will **no longer be a SUGUNA member**.
 
@@ -121,9 +147,9 @@ Note: If you unsubscribe completely, you will **no longer be a SUGUNA member**.
 We welcome member involvement! Some ways to participate:
 
 1. **Follow us on [LinkedIn](https://www.linkedin.com/) and/or [Facebook](https://www.facebook.com/)** — helps boost our profile and reach more people.
-2. **Volunteer to run or help with events** — [contact us](#contact-us). We coordinate with other nearby members and the University’s “Glocal” meetup system.
+2. **Volunteer to run or help with events** — [contact us](#email-us). We coordinate with other nearby members and the University’s “Glocal” meetup system.
 3. **Attend the Annual General Meeting (AGM)** — the next AGM is anticipated in the first half of 2025. This is where Board nominations are discussed and is an opportunity to meet members virtually across North America.
-4. **Share your ideas** — if you have something else in mind, [contact us](#contact-us).
+4. **Share your ideas** — if you have something else in mind, [contact us](#email-us).
 
 </details>
 
@@ -149,7 +175,7 @@ through to the University of Sydney.
 In addition, although we are a *tax-exempt* charity, as a 501(c)(7)
 membership benefit organization, contributions are **not**
 *tax-deductible* for the member. Please [contact
-us](#contact-us) for details on how to contribute.
+us](#email-us) for details on how to contribute.
 
 </details>
 
@@ -227,13 +253,13 @@ time, via the [SUGUNA website](https://usydnorthamerica.org/).
 
 If you can't find any emails from us (search for emails from
 "**usydnorthamerica.org**" ), please [contact
-us](#contact-us).
+us](#email-us).
 
 </details>
 
 ## Contact us
 
-<details markdown="1" id="contact-us">
+<details markdown="1" id="email-us">
 <summary>I still have questions! Who do I contact?</summary>
 
 Email us at: <a href="#" align="center" class="email-link" data-contact="{{ site.email_base64 }}">Email us</a>
