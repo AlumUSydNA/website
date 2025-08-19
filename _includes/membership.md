@@ -11,12 +11,13 @@ North American countries (United States, Canada and Mexico).
 ## How can I join?
 
 Join the mailing list! **Joining the mailing list and joining SUGUNA
-are the same thing**. This will enable you to and participate in business
-decisions of SUGUNA, and receive updates about the organization and
-events. If you are already a SUGUNA member, please update you contact
-information, such as email address. Membership dues are not required.
+are the same thing**. This will enable you to and participate in
+business decisions of SUGUNA, and receive updates about the
+organization and events. If you are already a SUGUNA member, please
+update your contact information, such as email address. Membership
+dues are not required.
 
-If you wish to leave as SUGUNA member - simply unsubscribe from the
+If you wish to leave as a SUGUNA member - simply unsubscribe from the
 mailing list - it's that simple.
 
 ## Updating your details with the University

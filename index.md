@@ -38,35 +38,53 @@ interests of our members in North America.
 
   <div style="flex: 1 1 50%; text-align: center; padding-left: 2em; padding-right: 2em;">
     {% capture right_box %}
-## Join your fellow alumni at the AGM!
+<br/>
+# Thank you for a great Annual General Meeting!
 
-**Date & Time:**  
-August 11, 2025 – 07:00-8:15 PM ET
+Thank you all for joining us **August 11, 2025 – 7:00-8:00 PM ET** for
+the SUGUNA Special Meeting and AGM!
 
-[Register on Zoom](https://us06web.zoom.us/webinar/register/WN_79c-fwfpT6iGxgLpDpxZVA#/registration){: .btn .btn--primary .btn--large style="background-color: #CE1126; font-size: 1.5em; padding: 0.8em 1.5em;"}
-<br/><small style="font-size: 60%;">(Existing members have been sent an invitation.<br/>If you have not received yours, you can register above)</small>
+We were thrilled to see over 80 of you from across
+Canada, Mexico, the United States, and Australia.
+
+The program featured a welcome from the Vice-Chancellor, Mark
+Scott AO, highlighting **SUGUNA's 35th anniversary**, along with the
+[175th anniversary of the University of Sydney
+itself](https://www.sydney.edu.au/about-us/our-story/175.html).
 
 
-    {% endcapture %}
-    {{ right_box | markdownify }}
-	<!--    <a href="https://us06web.zoom.us/webinar/register/WN_79c-fwfpT6iGxgLpDpxZVA#/registration">
+<!-- [Register on Zoom](https://us06web.zoom.us/webinar/register/WN_79c-fwfpT6iGxgLpDpxZVA#/registration){: .btn .btn--primary .btn--large style="background-color: #CE1126; font-size: 1.5em; padding: 0.8em 1.5em;"}
+<br/><small style="font-size: 60%;">Existing members have been sent an invitation.<br/>If you have not received yours, you can register above.<br/>If you cannot attend in person, you can vote by proxy,<br/>[contact us](#contact-us) to receive a proxy ballot.</small>
+-->
+
+
+{% endcapture %}
+{{ right_box | markdownify }}
+<!--    <a href="https://us06web.zoom.us/webinar/register/WN_79c-fwfpT6iGxgLpDpxZVA#/registration">(
 			<img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Zoom_Communications_Logo.svg" alt="Zoom Icon" style="width: 256px; height: 96px; display: block; margin: 0 auto 0.5em;">
 		</a> -->
-
   </div>
 
   <div style="flex: 1 1 50%; padding-left: 1em; padding-right: 0.5em;">
 {% capture left_box %}
+We’re pleased to report that:
 
-Meet your fellow USyd alumni and get involved with charting the future of
-SUGUNA! We will be holding a virtual joint **Special Meeting and
-Annual General Meeting** (AGM) on **August 11, 2025**.  The program
-will feature a welcome from the Vice-Chancellor.
+*  <sub>The [proposed
+   amendments](assets/downloads/suguna-bylaws-amendments-2025-04-06.pdf)
+   to the SUGUNA Bylaws are now [official](assets/downloads/suguna-bylaws-2025.pdf).  </sub>
+   
+*  <sub>The Board of Directors have been elected with staggered terms
+   ending in 2026 and 2027. See [Board of
+   Directors](#board-of-directors) below.</sub>
+   
+*  <sub>We welcome Alex Lancaster, as the new President of SUGUNA, upon
+   Richard Southby stepping down to become President Emeritus.</sub>
 
-Members will be voting to approve [these
-amendments](assets/downloads/suguna-bylaws-amendments-2025-04-06.pdf)
-to the by-laws to make SUGUNA more responsive and allow for better
-operation in the online environment.  
+*  <sub>A follow-up virtual networking event is scheduled for Monday, Sept
+   15th, from 8-9 PM ET. Members will receive details soon via our
+   mailing list, you can also [join SUGUNA](#join-suguna) if you are
+   not yet a member.</sub>
+
 {% endcapture %}
 {{ left_box | markdownify }}
   </div>
@@ -123,11 +141,15 @@ operation in the online environment.
 
 <div class="two-column-layout">
   <div class="column">
-   {% capture my_include %}{% include board.md %}{% endcapture %}
+   {% capture my_include %}{% include who-are-we.md %}{% endcapture %}
    {{ my_include | markdownify }}
+   
+   {% capture my_include %}{% include contact.md %}{% endcapture %}
+   {{ my_include | markdownify }}
+   
     </div>
   <div class="column">
-   {% capture my_include %}{% include contact.md %}{% endcapture %}
+   {% capture my_include %}{% include board.md %}{% endcapture %}
    {{ my_include | markdownify }}
   </div>
 </div>
