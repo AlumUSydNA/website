@@ -133,7 +133,7 @@ student recruitment in most parts of the world at one time or another.
 
 <details>
 <summary>Xaever Mand (2027)</summary>
-<div class="board-degree">BArch '12, MAarch '16</div>
+<div class="board-degree">BArch '12, MArch '16</div>
 <div class="board-bio">
 Xaever Mand is based in New York City where he runs his own studio,
 EndoExo, a design practice exploring the intersection of Architecture,
@@ -165,11 +165,12 @@ in Los Angeles. She returned to Australia in late 2013.
 <summary>Louisa Teo (2027)</summary>
 <div class="board-degree">BA '95, MCom '01</div>
 <div class="board-bio">
-Louisa Teo is a graduate of the Boston University Questrom School of
-Business and the University of Sydney. She is currently based in
-Cambridge, MA and oversees the American Australian Association’s
-programs in New England, including the ANZAC Day commemorative service
-and reception and the Association’s annual Boston dinner.
+Based in Cambridge, MA, Louisa Teo oversees the American Australian
+Association's programs in New England. She joined the American
+Australian Association in 2008 and since 2015 has also served as
+Secretary/Treasurer of the Australian Universities & Schools USA
+Foundation. She is a graduate of the Boston University Questrom School
+of Business and Sydney University.
 </div>
 </details>
 
