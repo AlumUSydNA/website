@@ -15,9 +15,12 @@ During this time SUGUNA also developed several awards. The SUGUNA Jim
 Wolfensohn Award consists of a sterling silver plate donated by the
 late Jim Wolfensohn, a prominent SUGUNA supporter and former president
 of the World Bank, awarded annually to a SUGUNA member in recognition
-of academic or other achievements.  The Michael Challis Distinguished
-Service Award award recognizes individuals for significant
-contributions to SUGUNA.
+of academic or other achievements. The Michael Challis Distinguished
+Service Award was established in 2012 in recognition of the invaluable
+service performed by Michael Challis in his role as Secretary and
+Treasurer of SUGUNA (2000-2014). It recognizes individuals for
+activities performed in support of SUGUNA, with special emphasis on
+leadership roles to advance the work of the organization.
 
 The 2020 coronavirus pandemic was a period of pause for many SUGUNA
 activities, as for many organizations. but from 2022 onwards, SUGUNA
