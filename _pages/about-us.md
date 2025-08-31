@@ -62,7 +62,7 @@ encourage you to **[update your
 details](https://www.sydney.edu.au/engage/alumni/update-your-details.html)**
 with the University directly.
 
-{% include gallery id="gallery2" caption="Vice-Chancellor visit to Boston, May 2025, from left-to-right, Mark Scott AO (Vice-Chancellor of the University of Sydney), Alex Lancaster (President of SUGUNA), Fred Kam (SUGUNA Treasurer), Louisa Teo (SUGUNA Board Member), Kate May (University of Sydney alumni office)" %}
+{% include gallery id="gallery2" caption="Vice-Chancellor visit to Boston, May 2025, from left-to-right, Mark Scott AO (Vice-Chancellor of the University of Sydney), Alex Lancaster (President of SUGUNA), Fred Kam (SUGUNA Treasurer), Louisa Teo (SUGUNA Board Member), Kate May (University of Sydney Alumni Office)" %}
 
 ### Looking ahead
 
