@@ -87,7 +87,7 @@ You can [update your details](#membership-details-updates) such as email address
 <summary>Why am I a “member” instead of just a “subscriber”?</summary>
 
 Being a member allows you to vote on SUGUNA’s direction!
-SUGUNA is a US-based 501(c)(7) tax-exempt social club. Our [by-laws](/assets/downloads/suguna-bylaws-2025.pdf) give ultimate control to members, typically exercised via the AGM. This mailing list helps track members, determine quorums, and notify members of AGMs and membership-wide actions.
+SUGUNA is a US-based 501(c)(7) tax-exempt social club. Our [by-laws]({{ "/assets/downloads/suguna-bylaws-2025.pdf" | relative_url }}) give ultimate control to members, typically exercised via the AGM. This mailing list helps track members, determine quorums, and notify members of AGMs and membership-wide actions.
 
 - **Joining the mailing list** = becoming a member in good standing.
 - **Leaving the mailing list** = stepping down as a member.
@@ -111,7 +111,7 @@ We maintain minimal information:
 6. State/Province *(optional)*
 7. Country
 
-Optional items help communicate relevant regional events. Mailchimp may also track updates and logins for list administrators. See our full [privacy policy](https://usydnorthamerica.org/privacy-policy/). All information is removed upon unsubscribing.
+Optional items help communicate relevant regional events. Mailchimp may also track updates and logins for list administrators. See our full [privacy policy]({{"/privacy-policy/" | relative_url}}). All information is removed upon unsubscribing.
 
 </details>
 
@@ -121,15 +121,15 @@ Optional items help communicate relevant regional events. Mailchimp may also tra
 
 1. Click **Update your preferences** link at end of any email sent via the mailing list. See below for where to find this link: 
 
-   ![Email footer](/assets/images/suguna-update-email-1.png).
+   ![Email footer]({{"/assets/images/suguna-update-email-1.png" | relative_url}}).
 
 2. Clicking on the link will send you to a webpage with a button to “Email Me a Link”, see below:
 
-   ![Email Me a Link page](/assets/images/suguna-update-email-2.png).
+   ![Email Me a Link page]({{"/assets/images/suguna-update-email-2.png" | relative_url}}).
 
 3. Clicking this button will send you an email with a link to a page that will allow you to modify your details. On this page you can update information (e.g. email address, location) that needs to be changed, and then save.
 
-   ![Details update page](/assets/images/suguna-update-email-3.png).
+   ![Details update page]({{"/assets/images/suguna-update-email-3.png" | relative_url}}).
 
 The link that is emailed to you expires within 24 hours for security and ensures that only you can modify your own preferences, otherwise anyone with access to the email could change your details.
 
@@ -156,7 +156,7 @@ We welcome member involvement! Some ways to participate:
 <details markdown="1" id="getting-involved-friend">
 <summary>Can my friend join SUGUNA?</summary>
 
-Yes! If they are alumni, current students, staff or faculty, they are eligible. Non-alumni and "friends of the University of Sydney" or SUGUNA may also join if they are agree to the mission of SUGUNA. Direct them to the [SUGUNA sign-up page](https://usydnorthamerica.org/) where they can indicate their connection to the University.
+Yes! If they are alumni, current students, staff or faculty, they are eligible. Non-alumni and "friends of the University of Sydney" or SUGUNA may also join if they are agree to the mission of SUGUNA. Direct them to the [SUGUNA sign-up page]({{"/#join-suguna" | relative_url}}) where they can indicate their connection to the University.
 
 </details>
 
