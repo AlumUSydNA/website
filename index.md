@@ -39,17 +39,20 @@ interests of our members in North America.
   <div style="flex: 1 1 50%; text-align: center; padding-left: 2em; padding-right: 2em;">
     {% capture right_box %}
 <br/>
+
 # Thank you for a great Annual General Meeting!
 
-Thank you all for joining us **August 11, 2025 – 7:00-8:00 PM ET** for
+Thank you all for joining us on **August 11, 2025** for
 the SUGUNA Special Meeting and AGM!
 
-We were thrilled to see over 80 of you from across
-Canada, Mexico, the United States, and Australia.
+We were thrilled to see 100 of you from across Canada, Mexico, the
+United States, and Australia.
 
-The program featured a welcome from the Vice-Chancellor, Mark
-Scott AO, highlighting **SUGUNA's 35th anniversary**, along with the
-[175th anniversary of the University of Sydney
+{% include video id="1E6qM3KP6w_HPgDTH279klACp8VEP391t" provider="google-drive" %}
+
+See the welcome above from the Vice-Chancellor, Mark Scott AO, highlighting
+**SUGUNA's 35th anniversary**, along with the [175th anniversary of
+the University of Sydney
 itself](https://www.sydney.edu.au/about-us/our-story/175.html).
 
 
@@ -69,21 +72,22 @@ itself](https://www.sydney.edu.au/about-us/our-story/175.html).
 {% capture left_box %}
 We’re pleased to report that:
 
-*  <sub>The [proposed
+*  The [proposed
    amendments](assets/downloads/suguna-bylaws-amendments-2025-04-06.pdf)
-   to the SUGUNA Bylaws are now [official](assets/downloads/suguna-bylaws-2025.pdf).  </sub>
+   to the SUGUNA Bylaws are now [official](assets/downloads/suguna-bylaws-2025.pdf).  
    
-*  <sub>The Board of Directors have been elected with staggered terms
+*  The Board of Directors have been elected with staggered terms
    ending in 2026 and 2027. See [Board of
-   Directors](#board-of-directors) below.</sub>
+   Directors](#board-of-directors) below.
    
-*  <sub>We welcome Alex Lancaster, as the new President of SUGUNA, upon
-   Richard Southby stepping down to become President Emeritus.</sub>
+*  We welcome Alex Lancaster, as the new President of SUGUNA, upon
+   Richard Southby stepping down to become President Emeritus.
 
-*  <sub>A follow-up virtual networking event is scheduled for Monday, Sept
-   15th, from 8-9 PM ET. Members will receive details soon via our
-   mailing list, you can also [join SUGUNA](#join-suguna) if you are
-   not yet a member.</sub>
+*  A follow-up virtual networking event will be held Monday, Sept
+   15th, from 8-9 PM ET. Members can **[register
+   now](https://us06web.zoom.us/meeting/register/0AFsYewiRrmrxQdPAdS5sw)**!
+   You can also [join SUGUNA](#join-suguna) if you are not yet a
+   member.
 
 {% endcapture %}
 {{ left_box | markdownify }}
