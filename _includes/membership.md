@@ -19,7 +19,7 @@ dues are not required.
 
 If you wish to leave as a SUGUNA member - simply unsubscribe from the
 mailing list - it's that simple.  Read more on managing your
-membership and the mailing list on our [FAQ]({% link _pages/faq.md %}).
+membership and the mailing list on our [FAQ]({{ "/faq/" | relative_url }}).
 
 ## Updating your details with the University
 

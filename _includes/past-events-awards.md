@@ -85,6 +85,6 @@ Year of conference and location
 <details markdown="1">
 <summary>Archived newsletters</summary>
 
-- [Fall 2011](/assets/downloads/newsletters/suguna-fall-2011.pdf)  
-- [Summer 2014](/assets/downloads/newsletters/4202_suguna_newsletter_summer_2014_2oct_1_.pdf)  
+- [Fall 2011]({{"/assets/downloads/newsletters/suguna-fall-2011.pdf" | relative_url}})  
+- [Summer 2014]({{"/assets/downloads/newsletters/4202_suguna_newsletter_summer_2014_2oct_1_.pdf" | relative_url }})  
 </details>
