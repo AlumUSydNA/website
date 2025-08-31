@@ -81,3 +81,10 @@ Year of conference and location
 - **2022** – Barry Catchlove (MBBS ‘66) – Representative Officer in Australia  
 - **2024** - Alexander Lancaster (BSc '91, BE Hons '94) - Secretary and Treasurer
 </details>
+
+<details markdown="1">
+<summary>Archived newsletters</summary>
+
+- [Fall 2011](/assets/downloads/newsletters/suguna-fall-2011.pdf)  
+- [Summer 2014](/assets/downloads/newsletters/4202_suguna_newsletter_summer_2014_2oct_1_.pdf)  
+</details>
