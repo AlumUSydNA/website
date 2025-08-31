@@ -18,6 +18,7 @@ header:
   #caption: "Photo credit: SUGUNA"
 excerpt: >
    <br/>Sydney University Graduates Union North America is the association for alumni, students, associates and friends of the University of Sydney in North America.
+
 ---
 
 <!--  <small>We work with alumni and the extended North American USyd community and to support the University and each other.</small> -->
@@ -33,42 +34,32 @@ welcome into our group students from USyd who are here temporarily as
 part of their studies or training, and we are proud to represent the
 interests of our members in North America.
 
-
-<div style="border: 2px solid #0073ff; background-color: #f0f8ff; padding: 1em; border-radius: 8px; display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; text-align: left;">
-
-  <div style="flex: 1 1 50%; text-align: center; padding-left: 2em; padding-right: 2em;">
+<div class="two-column-layout" style="border: 2px solid #0073ff; background-color: #f0f8ff; padding: 1em; border-radius: 8px; display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; text-align: left;">
+  <div class="column" style="text-align: center; padding-left: 2em; padding-right: 2em;">
     {% capture right_box %}
 <br/>
 
-# Thank you for a great Annual General Meeting!
+# Thank you for a great AGM!
 
 Thank you all for joining us on **August 11, 2025** for
-the SUGUNA Special Meeting and AGM!
+the SUGUNA Special and Annual General Meetings!
 
 We were thrilled to see 100 of you from across Canada, Mexico, the
 United States, and Australia.
 
 {% include video id="1E6qM3KP6w_HPgDTH279klACp8VEP391t" provider="google-drive" %}
 
-See the welcome above from the Vice-Chancellor, Mark Scott AO, highlighting
+<sub>See the welcome above from the Vice-Chancellor, Mark Scott AO, highlighting
 **SUGUNA's 35th anniversary**, along with the [175th anniversary of
 the University of Sydney
-itself](https://www.sydney.edu.au/about-us/our-story/175.html).
-
-
-<!-- [Register on Zoom](https://us06web.zoom.us/webinar/register/WN_79c-fwfpT6iGxgLpDpxZVA#/registration){: .btn .btn--primary .btn--large style="background-color: #CE1126; font-size: 1.5em; padding: 0.8em 1.5em;"}
-<br/><small style="font-size: 60%;">Existing members have been sent an invitation.<br/>If you have not received yours, you can register above.<br/>If you cannot attend in person, you can vote by proxy,<br/>[contact us](#contact-us) to receive a proxy ballot.</small>
--->
+itself](https://www.sydney.edu.au/about-us/our-story/175.html).</sub>
 
 
 {% endcapture %}
 {{ right_box | markdownify }}
-<!--    <a href="https://us06web.zoom.us/webinar/register/WN_79c-fwfpT6iGxgLpDpxZVA#/registration">(
-			<img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Zoom_Communications_Logo.svg" alt="Zoom Icon" style="width: 256px; height: 96px; display: block; margin: 0 auto 0.5em;">
-		</a> -->
   </div>
 
-  <div style="flex: 1 1 50%; padding-left: 1em; padding-right: 0.5em;">
+  <div class="column" style="padding-left: 1em; padding-right: 1em;">
 {% capture left_box %}
 We’re pleased to report that:
 
@@ -81,7 +72,7 @@ We’re pleased to report that:
    Directors](#board-of-directors) below.
    
 *  We welcome Alex Lancaster, as the new President of SUGUNA, upon
-   Richard Southby stepping down to become President Emeritus.
+   Richard Southby completing his terms to become President Emeritus.
 
 *  A follow-up virtual networking event will be held Monday, Sept
    15th, from 8-9 PM ET. Members can **[register
