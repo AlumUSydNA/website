@@ -21,8 +21,8 @@ gallery:
 gallery2:
   - url: /assets/images/suguna-boston-vc-event-2025.png
     image_path: /assets/images/suguna-boston-vc-event-2025.png
-    alt: "Suguna Boston Vice-Chancellor Event 2025"
-    title: "Boston alumni with the Vice-Chancellor of USyd, 2025"
+    alt: "SUGUNA Boston Vice-Chancellor Event 2025"
+    title: "Boston alumni with the Vice-Chancellor of the University of Sydney, 2025"
 ---
 
 ### Our mission
@@ -37,7 +37,7 @@ success of the University of Sydney.
 
 ### Come to an event!
 
-{% include gallery caption="SUGUNA Conference, Los Angeles, 2016 (left), Boston informal gathering, December 2024 (right)" %}
+{% include gallery caption="SUGUNA Conference, Los Angeles, 2016 (left), Boston SUGUNA social gathering, December 2024 (right)" %}
 
 We hold in-person social and networking events, focused around where
 our community lives.  We collaborate with the University using their
