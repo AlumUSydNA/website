@@ -1,5 +1,6 @@
 ---
 permalink: /about-us/
+title: About Us
 layout: splash
 classes: wide
 header:
