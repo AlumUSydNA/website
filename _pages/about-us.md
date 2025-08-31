@@ -53,11 +53,9 @@ events centered around geographic areas in North America.
 Membership in SUGUNA is open to all graduates of the University of
 Sydney, former students, faculty members, and friends who share our
 commitment to academic excellence and community engagement. By
-[joining](/#join-suguna), you become part of a network that values connection,
-collaboration, and the continued success of our alma mater.
-
-Stay connected with SUGUNA by [joining as a
-member](/#join-suguna). You will be added to our mailing list to
+[joining]({% link index.md %}#join-suguna), you become part of a
+network that values connection, collaboration, and the continued
+success of our alma mater.  You will be added to our mailing list to
 ensure you receive updates on upcoming events, networking
 opportunities, and news from our global alumni network. We also
 encourage you to **[update your
