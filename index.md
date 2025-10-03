@@ -35,55 +35,82 @@ part of their studies or training, and we are proud to represent the
 interests of our members in North America.
 
 <div class="two-column-layout" style="border: 2px solid #0073ff; background-color: #f0f8ff; padding: 1em; border-radius: 8px; display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; text-align: left;">
-  <div class="column" style="text-align: center; padding-left: 2em; padding-right: 2em;">
-    {% capture right_box %}
-<br/>
 
-# Thank you for a great AGM!
+  <div class="column" style="text-align: left; padding-left: 2em; padding-right: 2em;">
+  
+    {% capture left_box %}
 
-Thank you all for joining us on **August 11, 2025** for
-the SUGUNA Special and Annual General Meetings!
+# Join us in Seattle on October 7!
 
-We were thrilled to see 100 of you from across Canada, Mexico, the
-United States, and Australia.
+We look forward to welcoming all our friends in the US Pacific
+Northwest, and West Coast Canada to a networking event! [Join
+SUGUNA](#join-suguna) (membership is free) and [register](https://university-comms.sydney.edu.au/pub/pubType/EO/pubID/zzzz68ca0c0283db8298/interface.html)!
 
-{% include video id="1E6qM3KP6w_HPgDTH279klACp8VEP391t" provider="google-drive" %}
-
-<sub>See the welcome above from the Vice-Chancellor, Mark Scott AO, highlighting
-**SUGUNA's 35th anniversary**, along with the [175th anniversary of
-the University of Sydney
-itself](https://www.sydney.edu.au/about-us/our-story/175.html).</sub>
-
-
-{% endcapture %}
-{{ right_box | markdownify }}
-  </div>
-
-  <div class="column" style="padding-left: 1em; padding-right: 1em;">
-{% capture left_box %}
-We’re pleased to report that:
-
-*  The [proposed
-   amendments](assets/downloads/suguna-bylaws-amendments-2025-04-06.pdf)
-   to the SUGUNA Bylaws are now [official](assets/downloads/suguna-bylaws-2025.pdf).  
-   
-*  The Board of Directors have been elected with staggered terms
-   ending in 2026 and 2027. See [Board of
-   Directors](#board-of-directors) below.
-   
-*  We welcome Alex Lancaster, as the new President of SUGUNA, upon
-   Richard Southby completing his terms to become President Emeritus.
-
-*  A follow-up virtual networking event will be held Monday, Sept
-   15th, from 8-9 PM ET. Members can **[register
-   now](https://us06web.zoom.us/meeting/register/0AFsYewiRrmrxQdPAdS5sw)**!
-   You can also [join SUGUNA](#join-suguna) if you are not yet a
-   member.
+* **WHEN**: Tuesday 7 October 2025, 6 pm to 9 pm
+* **WHERE**: [The Mountaineering Club
+  Seattle](https://www.themountaineeringclub.com/) at the Graduate by
+  Hilton Seattle, **4507 Brooklyn Ave NE, Seattle, WA 98105**
+* **COST**: Free, hors d'oeuvres will be provided, alongside a cash
+  bar
 
 {% endcapture %}
 {{ left_box | markdownify }}
   </div>
 
+  <div class="column" style="text-align: center; padding-left: 1em; padding-right: 1em;">
+{% capture right_box %}
+
+[![alt]({{ site.url }}{{ site.baseurl }}/assets/images/seattle-mountaineering-club.jpg)](https://university-comms.sydney.edu.au/pub/pubType/EO/pubID/zzzz68ca0c0283db8298/interface.html)
+
+[Register now!](https://university-comms.sydney.edu.au/pub/pubType/EO/pubID/zzzz68ca0c0283db8298/interface.html){: .btn .btn--primary .btn--large target="_blank" rel="noopener noreferrer" }
+
+{% endcapture %}
+{{ right_box | markdownify }}
+  </div>
+
+</div>
+
+<div class="two-column-layout" style="border: 2px solid #0073ff; background-color: #f0f8ff; padding: 1em; border-radius: 8px; display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; text-align: left;">
+
+ <div class="column" style="padding-left: 1em; padding-right: 1em;">
+ 
+{% capture bottom_left_box %}
+
+## 2025 Annual General Meeting
+
+* We were thrilled to see 100 of you from across Canada, Mexico, the
+  United States, and Australia at the August 11, 2025 SUGUNA Special
+  and Annual General Meetings
+
+* The [proposed
+  amendments](assets/downloads/suguna-bylaws-amendments-2025-04-06.pdf)
+  to the SUGUNA Bylaws are now [official](assets/downloads/suguna-bylaws-2025.pdf).  
+   
+* The [Board of Directors](#board-of-directors) been elected with
+  staggered terms ending in 2026 and 2027 with Alex Lancaster, as the
+  new President of SUGUNA, with Richard Southby completing his terms
+  to become President Emeritus.
+
+{% endcapture %}
+{{ bottom_left_box | markdownify }}
+
+</div>
+
+<div class="column" style="padding-left: 1em; padding-right: 1em;">
+
+{% capture bottom_right_box %}
+
+{% include video id="1E6qM3KP6w_HPgDTH279klACp8VEP391t" provider="google-drive" %}
+
+  <sub>See the welcome above from the Vice-Chancellor, Mark Scott AO,
+  highlighting **SUGUNA's 35th anniversary**, along with the [175th
+  anniversary of the University of Sydney
+  itself](https://www.sydney.edu.au/about-us/our-story/175.html).</sub>
+
+{% endcapture %}
+{{ bottom_right_box | markdownify }}
+
+</div>
 
 </div>
 
