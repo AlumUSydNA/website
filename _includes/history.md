@@ -25,7 +25,7 @@ organization.
 
 The 2020 coronavirus pandemic was a period of pause for many SUGUNA
 activities, as for many organizations. but from 2022 onwards, SUGUNA
-has re-organized and has revitalized it's mission and bylaws, with an
+has re-organized and revitalized its mission and bylaws, with an
 increasing focus on regional in-person events and virtual national
 events, leading to our first successful virtual Annual General Meeting
 in August 2025.
