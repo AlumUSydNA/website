@@ -40,18 +40,10 @@ interests of our members in North America.
   
     {% capture left_box %}
 
-# Join us in Seattle on October 7!
+## Thanks for joining us in Seattle!
 
-We look forward to welcoming all our friends in the US Pacific
-Northwest, and West Coast Canada to a networking event! [Join
-SUGUNA](#join-suguna) (membership is free) and [register](https://university-comms.sydney.edu.au/pub/pubType/EO/pubID/zzzz68ca0c0283db8298/interface.html)!
-
-* **WHEN**: Tuesday 7 October 2025, 6 pm to 9 pm
-* **WHERE**: [The Mountaineering Club
-  Seattle](https://www.themountaineeringclub.com/) at the Graduate by
-  Hilton Seattle, **4507 Brooklyn Ave NE, Seattle, WA 98105**
-* **COST**: Free, hors d'oeuvres will be provided, alongside a cash
-  bar
+We had a wonderful time welcoming all our friends to Seatle at [The Mountaineering Club Seattle](https://www.themountaineeringclub.com/) at the Graduate by
+Hilton Seattle on the evening of Tuesday 7 October 2025.
 
 {% endcapture %}
 {{ left_box | markdownify }}
@@ -60,9 +52,8 @@ SUGUNA](#join-suguna) (membership is free) and [register](https://university-com
   <div class="column" style="text-align: center; padding-left: 1em; padding-right: 1em;">
 {% capture right_box %}
 
-[![alt]({{ site.url }}{{ site.baseurl }}/assets/images/seattle-mountaineering-club.jpg)](https://university-comms.sydney.edu.au/pub/pubType/EO/pubID/zzzz68ca0c0283db8298/interface.html)
 
-[Register now!](https://university-comms.sydney.edu.au/pub/pubType/EO/pubID/zzzz68ca0c0283db8298/interface.html){: .btn .btn--primary .btn--large target="_blank" rel="noopener noreferrer" }
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/seattle-oct-2025-crowd.jpg)
 
 {% endcapture %}
 {{ right_box | markdownify }}
