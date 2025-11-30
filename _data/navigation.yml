@@ -1,6 +1,9 @@
-#main:
+main:
+  - title: "FAQ"
+    url: /faq/
+  - title: "About Us"
+    url: /about-us/
+  
 #  - title: "Privacy policy"
 #    url: /privacy-policy/
-#  - title: "International networks "
-#    url: https://www.sydney.edu.au/engage/alumni/get-involved/networks/international.html
-#    target: _blank
+

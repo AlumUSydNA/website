@@ -62,8 +62,8 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-relative-links
 
-  
 footer:
   links:
     - label: "LinkedIn"
