@@ -42,8 +42,8 @@ interests of our members in North America.
 
 ## Thanks for joining us in Seattle!
 
-We had a wonderful time welcoming all our friends to Seatle at [The Mountaineering Club Seattle](https://www.themountaineeringclub.com/) at the Graduate by
-Hilton Seattle on the evening of Tuesday 7 October 2025.
+A wonderful time was had by our Seattle-area SUGUNA members and friends at [The Mountaineering Club Seattle](https://www.themountaineeringclub.com/) at the Graduate by
+Hilton on the evening of Tuesday 7 October 2025.
 
 {% endcapture %}
 {{ left_box | markdownify }}
