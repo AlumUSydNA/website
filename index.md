@@ -43,7 +43,7 @@ interests of our members in North America.
 ## Join us in Vancouver!
 
 We are meeting at the [Sandman Hotel Vancouver City
-Centre](https://www.themountaineeringclub.com/)  in downtown Vancouver 
+Centre](https://www.sandmanhotels.com/signature-vancouver-downtown/)  in downtown Vancouver 
 **Saturday 23 May 2026** from 3-8pm. Not too late to attend! Email us at <a href="#" align="center" class="email-link" data-contact="{{ site.email_base64 }}">Email us</a>.
 
 {% endcapture %}
