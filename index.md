@@ -40,10 +40,11 @@ interests of our members in North America.
   
     {% capture left_box %}
 
-## Thanks for joining us in Seattle!
+## Join us in Vancouver!
 
-A wonderful time was had by our Seattle-area SUGUNA members and friends at [The Mountaineering Club Seattle](https://www.themountaineeringclub.com/) at the Graduate by
-Hilton on the evening of Tuesday 7 October 2025.
+We are meeting at the [Sandman Hotel Vancouver City
+Centre](https://www.themountaineeringclub.com/)  in downtown Vancouver 
+**Saturday 23 May 2026** from 3-8pm. Not too late to attend! Email us at <a href="#" align="center" class="email-link" data-contact="{{ site.email_base64 }}">Email us</a>.
 
 {% endcapture %}
 {{ left_box | markdownify }}
@@ -53,7 +54,7 @@ Hilton on the evening of Tuesday 7 October 2025.
 {% capture right_box %}
 
 
-![alt]({{ site.url }}{{ site.baseurl }}/assets/images/seattle-oct-2025-crowd.jpg)
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/suguna-vancouver-may-2026.jpg)
 
 {% endcapture %}
 {{ right_box | markdownify }}
@@ -67,20 +68,14 @@ Hilton on the evening of Tuesday 7 October 2025.
  
 {% capture bottom_left_box %}
 
-## 2025 Annual General Meeting
+## 2026 Annual General Meeting
 
-* We were thrilled to see 100 of you from across Canada, Mexico, the
-  United States, and Australia at the August 11, 2025 SUGUNA Special
-  and Annual General Meetings
+* We are happy to announce our 2026 AGM will be held **Monday August
+  10, 2026**. Members will receive an email invitation with registration
+  details as we approach the meeting date.
 
-* The [proposed
-  amendments](assets/downloads/suguna-bylaws-amendments-2025-04-06.pdf)
-  to the SUGUNA Bylaws are now [official](assets/downloads/suguna-bylaws-2025.pdf).  
-   
-* The [Board of Directors](#board-of-directors) been elected with
-  staggered terms ending in 2026 and 2027 with Alex Lancaster, as the
-  new President of SUGUNA, with Richard Southby completing his terms
-  to become President Emeritus.
+* We will be electing new members and reelecting continuining members
+  of the [Board of Directors](#board-of-directors).
 
 {% endcapture %}
 {{ bottom_left_box | markdownify }}
@@ -93,7 +88,7 @@ Hilton on the evening of Tuesday 7 October 2025.
 
 {% include video id="1E6qM3KP6w_HPgDTH279klACp8VEP391t" provider="google-drive" %}
 
-  <sub>See the welcome above from the Vice-Chancellor, Mark Scott AO,
+  <sub>See the 2025 welcome to the AGM above from the Vice-Chancellor, Mark Scott AO,
   highlighting **SUGUNA's 35th anniversary**, along with the [175th
   anniversary of the University of Sydney
   itself](https://www.sydney.edu.au/about-us/our-story/175.html).</sub>
