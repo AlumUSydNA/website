@@ -51,6 +51,20 @@ Health Emeritus at George Washington University.
 </details>
 
 <details>
+<summary>Julia Elmer (2027) <strong>Vice-President</strong></summary>
+<div class="board-degree">MIntPH '06</div>
+<div class="board-bio">
+
+Dr Julia Elmer earned her Master of International Public Health degree
+from the University of Sydney in 2005. She originally moved from
+Brazil to Australia to complete part of her MBA degree at QUT in
+Brisbane and then remained in the country for over five years. She is
+now based in Cincinnati, Ohio, USA, where she serves as Huntington
+National Bank's first Multicultural Banking Strategy Leader.
+</div>
+</details>
+
+<details>
 <summary>Fred Kam <strong>Treasurer</strong> (2027)</summary>
 <div class="board-degree">BSc ’80 BE (Civil) ’82 ME ‘83</div>
 <div class="board-bio">
@@ -73,20 +87,6 @@ California Lutheran University and Guest Lecturing at the University
 of Southern California. He is the author of “Marketing Transformation:
 Why Your Marketing Mindset is Holding Your Organisation Back”
 
-</div>
-</details>
-
-<details>
-<summary>Julia Elmer (2027)</summary>
-<div class="board-degree">MIntPH '06</div>
-<div class="board-bio">
-
-Dr Julia Elmer earned her Master of International Public Health degree
-from the University of Sydney in 2005. She originally moved from
-Brazil to Australia to complete part of her MBA degree at QUT in
-Brisbane and then remained in the country for over five years. She is
-now based in Cincinnati, Ohio, USA, where she serves as Huntington
-National Bank's first Multicultural Banking Strategy Leader.
 </div>
 </details>
 
