@@ -51,7 +51,7 @@ Health Emeritus at George Washington University.
 </details>
 
 <details>
-<summary>Julia Elmer (2027) <strong>Vice-President</strong></summary>
+<summary>Julia Elmer <strong>Vice-President</strong> (2027)</summary>
 <div class="board-degree">MIntPH '06</div>
 <div class="board-bio">
 
