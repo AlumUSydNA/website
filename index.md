@@ -73,9 +73,16 @@ Centre](https://www.sandmanhotels.com/signature-vancouver-downtown/)  in downtow
 * We are happy to announce our 2026 AGM will be held **Monday August
   10, 2026**. Members will receive an email invitation with registration
   details as we approach the meeting date.
-
+  
 * We will be electing new members and reelecting continuining members
   of the [Board of Directors](#board-of-directors).
+
+* Following the election, we are delighted to welcome [Professor
+  Victoria Cogger](https://profiles.sydney.edu.au/victoria.cogger),
+  founding Executive Director of the [Sydney Biomedical
+  Accelerator](https://sydneybiomedicalaccelerator.org/), as our
+  keynote speaker.
+
 
 {% endcapture %}
 {{ bottom_left_box | markdownify }}
@@ -86,12 +93,10 @@ Centre](https://www.sandmanhotels.com/signature-vancouver-downtown/)  in downtow
 
 {% capture bottom_right_box %}
 
-{% include video id="1E6qM3KP6w_HPgDTH279klACp8VEP391t" provider="google-drive" %}
+[![Professor Victoria Cogger]({{ site.url }}{{ site.baseurl }}/assets/images/victoria-cogger.jpeg)](https://profiles.sydney.edu.au/victoria.cogger)
 
-  <sub>See the 2025 welcome to the AGM above from the Vice-Chancellor, Mark Scott AO,
-  highlighting **SUGUNA's 35th anniversary**, along with the [175th
-  anniversary of the University of Sydney
-  itself](https://www.sydney.edu.au/about-us/our-story/175.html).</sub>
+  <sub>**Professor Victoria Cogger**
+  Founding Executive Director of the Sydney Biomedical Accelerator, will discussing the future of biomedical innovation and research translation.</sub>
 
 {% endcapture %}
 {{ bottom_right_box | markdownify }}
