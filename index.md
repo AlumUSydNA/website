@@ -74,8 +74,8 @@ Centre](https://www.sandmanhotels.com/signature-vancouver-downtown/) in downtown
   10, 2026**. Members will receive an email invitation with registration
   details as we approach the meeting date.
   
-* We will be electing new members and reelecting continuining members
-  of the [Board of Directors](#board-of-directors).
+* We will be electing new and continuing members of the [Board of
+  Directors](#board-of-directors).
 
 * Following the election, we are delighted to welcome [Professor
   Victoria Cogger](https://profiles.sydney.edu.au/victoria.cogger),
