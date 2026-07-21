@@ -40,11 +40,11 @@ interests of our members in North America.
   
     {% capture left_box %}
 
-## Join us in Vancouver!
+## Thanks for joining us in Vancouver!
 
-We are meeting at the [Sandman Hotel Vancouver City
-Centre](https://www.sandmanhotels.com/signature-vancouver-downtown/)  in downtown Vancouver 
-**Saturday 23 May 2026** from 3-8pm. Not too late to attend! Email us at <a href="#" align="center" class="email-link" data-contact="{{ site.email_base64 }}">Email us</a>.
+We had a great turnout at at the [Sandman Hotel Vancouver City
+Centre](https://www.sandmanhotels.com/signature-vancouver-downtown/) in downtown Vancouver on
+**Saturday 23 May 2026**. More updates to come!
 
 {% endcapture %}
 {{ left_box | markdownify }}
