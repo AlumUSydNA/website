@@ -71,10 +71,11 @@ Centre](https://www.sandmanhotels.com/signature-vancouver-downtown/) in downtown
 ## 2026 Annual General Meeting
 
 * We are happy to announce our 2026 AGM will be held **Monday August
-  10, 2026**. Members can register below. **Not yet a member? You can
-  join SUGUNA during registration or [on our website](#join-suguna)**.
+  10, 2026**. It will be held virtually, on Zoom. Members can register
+  below. **Not yet a member? You can join SUGUNA during registration
+  or [on our website](#join-suguna)**.
   
-  [Register for AGM now!](https://us06web.zoom.us/meeting/register/zZ_3mN98ToGTMenwWAZ5sQ){: .btn .btn--primary .btn--large target="_blank" rel="noopener noreferrer" }
+  [Register on Zoom for AGM now!](https://us06web.zoom.us/meeting/register/zZ_3mN98ToGTMenwWAZ5sQ){: .btn .btn--primary .btn--large target="_blank" rel="noopener noreferrer" }
   
 * We will be electing new and continuing members of the [Board of
   Directors](#board-of-directors).
