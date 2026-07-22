@@ -36,6 +36,20 @@ including pioneering work in complex systems research.
 </details>
 
 <details>
+<summary>Julia Elmer <strong>Vice-President</strong> (2027)</summary>
+<div class="board-degree">MIntPH '06</div>
+<div class="board-bio">
+
+Dr Julia Elmer earned her Master of International Public Health degree
+from the University of Sydney in 2005. She originally moved from
+Brazil to Australia to complete part of her MBA degree at QUT in
+Brisbane and then remained in the country for over five years. She is
+now based in Cincinnati, Ohio, USA, where she serves as Huntington
+National Bank's first Multicultural Banking Strategy Leader.
+</div>
+</details>
+
+<details>
 <summary>Richard F. Southby <strong>President Emeritus</strong> (2026)</summary>
 <div class="board-degree">PhD(Med), Monash FFPHM</div>
 <div class="board-bio">
@@ -47,20 +61,6 @@ Commission, and has held teaching and research positions at Monash
 University, the University of Sydney and George Washington
 University. He is currently Dean and Distinguished Professor of Global
 Health Emeritus at George Washington University.
-</div>
-</details>
-
-<details>
-<summary>Julia Elmer <strong>Vice-President</strong> (2027)</summary>
-<div class="board-degree">MIntPH '06</div>
-<div class="board-bio">
-
-Dr Julia Elmer earned her Master of International Public Health degree
-from the University of Sydney in 2005. She originally moved from
-Brazil to Australia to complete part of her MBA degree at QUT in
-Brisbane and then remained in the country for over five years. She is
-now based in Cincinnati, Ohio, USA, where she serves as Huntington
-National Bank's first Multicultural Banking Strategy Leader.
 </div>
 </details>
 
@@ -100,7 +100,7 @@ a fellow of the American and International College of Dentists, a
 Diplomate of the American Board of Special Care Dentistry. He is a
 past-president of the American Society for Geriatric Denistry, has
 published extensively and lectured throughout North and South America,
-Europe, Asia, and Australasia.  He currently serves as Professor in
+Europe, Asia, and Australasia.  He currently serves as Professor Emeritus in
 the Department of Prosthodontics and the Dows Institute for Dental
 Research at the University of Iowa.
 </div>
