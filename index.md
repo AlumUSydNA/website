@@ -70,22 +70,25 @@ Centre](https://www.sandmanhotels.com/signature-vancouver-downtown/) in downtown
 
 ## 2026 Annual General Meeting
 
-* We are happy to announce our 2026 AGM will be held **Monday August
-  10, 2026**. It will be held virtually, on Zoom. Members can register
-  below. **Not yet a member? You can join SUGUNA during registration
-  or [on our website](#join-suguna)**.
-  
-  [Register on Zoom for AGM now!](https://us06web.zoom.us/meeting/register/zZ_3mN98ToGTMenwWAZ5sQ){: .btn .btn--primary .btn--large target="_blank" rel="noopener noreferrer" }
-  
-* We will be electing new and continuing members of the [Board of
-  Directors](#board-of-directors).
+* Our 2026 AGM was held virtually on **August 10, 2026**. Members elected
+  a new [Board](#board-of-directors) Director, **Vish Ponnampalam** and
+  continuing Directors, **Ron Ettinger** and **Christopher Lawrance**
+  for two year terms ending in 2028. Congratulations all! We also
+  thank outgoing Directors  **Jenny Green** and President Emeritus
+  **Richard Southby**, who is stepping down as a voting Board member,
+  but remains _ex officio_.
 
-* Following the election, we are delighted to welcome [Professor
-  Victoria Cogger](https://profiles.sydney.edu.au/victoria.cogger),
-  founding Executive Director of the [Sydney Biomedical
-  Accelerator](https://sydneybiomedicalaccelerator.org/), as our
-  keynote speaker.
+* We were also delighted to welcome [**Professor Victoria
+  Cogger**](https://profiles.sydney.edu.au/victoria.cogger), founding
+  Executive Director of the [Sydney Biomedical
+  Accelerator](https://sydneybiomedicalaccelerator.org/), who gave a
+  wonderful keynote presentation.
 
+* In very sad news, current SUGUNA Board member, **Angela Wales
+  Kirgo** [passed away at the end of
+  July](https://www.hollywoodreporter.com/news/general-news/angela-wales-kirgo-dead-writers-guild-foundation-1236660070/). Outgoing
+  Board member Jenny Green gaving a moving tribute to Angela's long
+  service to SUGUNA at the AGM.
 
 {% endcapture %}
 {{ bottom_left_box | markdownify }}
@@ -99,7 +102,7 @@ Centre](https://www.sandmanhotels.com/signature-vancouver-downtown/) in downtown
 [![Professor Victoria Cogger]({{ site.url }}{{ site.baseurl }}/assets/images/victoria-cogger.jpeg)](https://profiles.sydney.edu.au/victoria.cogger)
 
   <sub>**Professor Victoria Cogger**
-  Founding Executive Director of the Sydney Biomedical Accelerator, will discussing the future of biomedical innovation and research translation.</sub>
+  Founding Executive Director of the Sydney Biomedical Accelerator, discussed the future of biomedical innovation and research translation.</sub>
 
 {% endcapture %}
 {{ bottom_right_box | markdownify }}

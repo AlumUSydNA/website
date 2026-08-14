@@ -50,26 +50,17 @@ National Bank's first Multicultural Banking Strategy Leader.
 </details>
 
 <details>
-<summary>Richard F. Southby <strong>President Emeritus</strong> (2026)</summary>
-<div class="board-degree">PhD(Med), Monash FFPHM</div>
-<div class="board-bio">
-Dr Richard Southby has studied at the University of Melbourne, Cornell
-University and Monash University, where he completed his doctoral
-studies.  Throughout his distinguished career he has served as the
-commissioner on the Australian Hospitals and Health Services
-Commission, and has held teaching and research positions at Monash
-University, the University of Sydney and George Washington
-University. He is currently Dean and Distinguished Professor of Global
-Health Emeritus at George Washington University.
-</div>
-</details>
-
-<details>
 <summary>Fred Kam <strong>Treasurer</strong> (2027)</summary>
 <div class="board-degree">BSc ’80 BE (Civil) ’82 ME ‘83</div>
 <div class="board-bio">
-Even though Fred’s degrees are in engineering, his entire career was spent in IT. In 1994 he joined the Wall Street firm PaineWebber in New York, supporting the Mutual Funds business. In 2000, the Swiss bank UBS, acquired PaineWebber. Fred became involved with the client communication portfolio that included client statements, trade confirms, and client letters.  In 2024, he retired as an IT Director after 30 years of service with UBS. Fred also served as the President of SUGUNA in 2015.
-
+Even though Fred’s degrees are in engineering, his entire career was
+spent in IT. In 1994 he joined the Wall Street firm PaineWebber in New
+York, supporting the Mutual Funds business. In 2000, the Swiss bank
+UBS, acquired PaineWebber. Fred became involved with the client
+communication portfolio that included client statements, trade
+confirms, and client letters.  In 2024, he retired as an IT Director
+after 30 years of service with UBS. Fred also served as the President
+of SUGUNA in 2015.
 </div>
 </details>
 
@@ -91,7 +82,7 @@ Why Your Marketing Mindset is Holding Your Organisation Back”
 </details>
 
 <details>
-<summary>Ronald Ettinger (2026)</summary>
+<summary>Ronald Ettinger (2028)</summary>
 <div class="board-degree">BDS ’66, MDS ’70, DDSc ’92</div>
 <div class="board-bio">
 Dr Ron Ettinger is an alumnus of the University of Sydney, and also
@@ -106,21 +97,9 @@ Research at the University of Iowa.
 </div>
 </details>
 
-<details>
-<summary>Jenny Green (2026)</summary>
-<div class="board-degree">BSc(Hons I) '82, PhD '87</div>
-<div class="board-bio">
-Jenny Green is a clinical professor in the School of Molecular
-Sciences at Arizona State University. She is a native of Australia
-where she attended the University of Sydney and graduated with a
-BSc(Hons I) in physical chemistry and a PhD also in physical
-chemistry. Her research focuses on the spectroscopy of liquids,
-notably water and its aqueous solutions, both ionic and molecular.
-</div>
-</details>
 
 <details>
-<summary>Chris Lawrance (2026)</summary>
+<summary>Chris Lawrance (2028)</summary>
 <div class="board-degree">MEd(Res) '16</div>
 <div class="board-bio">
 Chris is the Regional Manager Americas and Europe at the University of
@@ -149,15 +128,19 @@ France and the Port Lands Bridges in Toronto, Canada.
 </details>
 
 <details>
-<summary>Angela Wales Kirgo (2026)</summary>
-<div class="board-degree">BA '69</div>
+<summary>Vish Ponnampalam (2028)</summary>
+<div class="board-degree">BE(Info Sys)(Hons) '96, PhD '01</div>
 <div class="board-bio">
-Angela Wales Kirgo attended the University of Sydney, graduating in
-English and Classics. She served as the Executive Director of the
-Australian Writers Guild for 10 years, before moving to the US and
-serving as the Executive Director of the Writers Guild Foundation (the
-educational and charitable arm of the Writers Guild of America West)
-in Los Angeles. She returned to Australia in late 2013.
+Vish Ponnampalam is a University of Sydney alumnus, holding a BE and
+PhD from the Faculty of Engineering. He is currently based in the San
+Francisco Bay Area. As a senior technology leader with more than 25
+years of experience in AI infrastructure and networking, Vish has held
+roles at leading global technology companies including Google and
+Meta. Vish is also a Sydney for Good campaign ambassador and responded
+to our recent call for getting involved with SUGUNA, focusing on
+supporting alumni engagement, especially in California, and
+strengthening connections across the global University of Sydney
+community.
 </div>
 </details>
 
@@ -173,5 +156,22 @@ Foundation. She is a graduate of the Boston University Questrom School
 of Business and Sydney University.
 </div>
 </details>
+
+<details>
+<summary>Richard F. Southby <strong>President Emeritus</strong></summary>
+<div class="board-degree">PhD(Med), Monash FFPHM<p/>(Non-voting, ex-officio)</div>
+<div class="board-bio">
+
+Dr Richard Southby has studied at the University of Melbourne, Cornell
+University and Monash University, where he completed his doctoral
+studies.  Throughout his distinguished career he has served as the
+commissioner on the Australian Hospitals and Health Services
+Commission, and has held teaching and research positions at Monash
+University, the University of Sydney and George Washington
+University. He is currently Dean and Distinguished Professor of Global
+Health Emeritus at George Washington University.
+</div>
+</details>
+
 
 <sub>Each Director's two-year term ends in the year above.</sub>
