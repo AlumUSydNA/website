@@ -40,11 +40,31 @@ interests of our members in North America.
   
     {% capture left_box %}
 
-## Thanks for joining us in Vancouver!
+## Upcoming October events!
 
-We had a great turnout at at the [Sandman Hotel Vancouver City
-Centre](https://www.sandmanhotels.com/signature-vancouver-downtown/) in downtown Vancouver on
-**Saturday 23 May 2026**. More updates to come!
+The [University of Sydney](https://sydney.edu.au/) and SUGUNA are excited to announce **two
+events** in October open to all alumni and SUGUNA members: one in
+Boston, and the other in Palo Alto in the San Francisco Bay Area.
+
+### Boston/Cambridge event
+
+The Boston get-together will be at the Australian-style [Bluestone
+Lane](https://bluestonelane.com/cafes/harvard-square-27-brattle-st-cambridge/)
+coffee shop in Harvard Square, site of many of our previous events.
+
+- **Wednesday 7 October 2026**
+- 6.00 - 8.00pm PM ET
+- Bluestone Lane, 27 Brattle St, Cambridge, MA 02138
+
+ [Register now!](https://usydevents.swoogo.com/boston_alumni_reception/begin){: .btn .btn--primary .btn--large target="_blank" rel="noopener noreferrer" }
+
+### Bay Area/Palo Alto event
+
+Mark your calendars for **15 October** now: the exact time, location and
+registration links will be announced soon!
+
+- **Thursday 15 October 2026**
+- Time and Location: TBA
 
 {% endcapture %}
 {{ left_box | markdownify }}
@@ -54,7 +74,10 @@ Centre](https://www.sandmanhotels.com/signature-vancouver-downtown/) in downtown
 {% capture right_box %}
 
 
-![alt]({{ site.url }}{{ site.baseurl }}/assets/images/suguna-vancouver-may-2026.jpg)
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/leonard-p-zakim-bunker-hill-bridge-at-night-boston-massachusetts.jpg)
+
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/bluestone-exterior.jpg)
+
 
 {% endcapture %}
 {{ right_box | markdownify }}
