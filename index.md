@@ -56,15 +56,18 @@ coffee shop in Harvard Square, site of many of our previous events.
 - 6.00 - 8.00pm PM ET
 - Bluestone Lane, 27 Brattle St, Cambridge, MA 02138
 
- [Register now!](https://usydevents.swoogo.com/boston_alumni_reception/begin){: .btn .btn--primary .btn--large target="_blank" rel="noopener noreferrer" }
+
+ [Register now for Boston!](https://usydevents.swoogo.com/boston_alumni_reception/begin){: .btn .btn--primary .btn--large target="_blank" rel="noopener noreferrer" }  (closes Oct 1)
 
 ### Bay Area/Palo Alto event
 
-Mark your calendars for **15 October** now: the exact time, location and
-registration links will be announced soon!
+Mark your calendars for **15 October** now: exact location will be announced soon!
 
 - **Thursday 15 October 2026**
-- Time and Location: TBA
+- 6.00 - 8.00pm PM PT
+- Location: Palo Alto area, exact location TBA
+
+ [Register now for Palo Alto!](https://usydevents.swoogo.com/palo_alto_reception/begin){: .btn .btn--primary .btn--large target="_blank" rel="noopener noreferrer" }
 
 {% endcapture %}
 {{ left_box | markdownify }}
