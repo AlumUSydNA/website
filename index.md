@@ -56,8 +56,7 @@ coffee shop in Harvard Square, site of many of our previous events.
 - 6.00 - 8.00pm PM ET
 - Bluestone Lane, 27 Brattle St, Cambridge, MA 02138
 
-
- [Register now for Boston!](https://usydevents.swoogo.com/boston_alumni_reception/begin){: .btn .btn--primary .btn--large target="_blank" rel="noopener noreferrer" }  (closes Oct 1)
+**Registration closed Oct 1**
 
 ### Bay Area/Sunnyvale event
 
@@ -65,9 +64,9 @@ The Bay Area reception will be at Google in Sunnyvale.
 
 - **Thursday 15 October 2026**
 - 6.00 - 8.00pm PM PT
-- Google Building MP, 1195 Borregas Ave, Sunnyvale, CA 94089
+- Google Building MP 6, 1195 Borregas Ave, Sunnyvale, CA 94089
 
- [Register now for Palo Alto!](https://usydevents.swoogo.com/palo_alto_reception/begin){: .btn .btn--primary .btn--large target="_blank" rel="noopener noreferrer" }
+ [Register now for Bay Area!](https://usydevents.swoogo.com/palo_alto_reception/begin){: .btn .btn--primary .btn--large target="_blank" rel="noopener noreferrer" }
 
 {% endcapture %}
 {{ left_box | markdownify }}
