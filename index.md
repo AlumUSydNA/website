@@ -65,7 +65,7 @@ The Bay Area reception will be at Google in Sunnyvale.
 
 - **Thursday 15 October 2026**
 - 6.00 - 8.00pm PM PT
-- Google Building MP, 61195 Borregas Ave, Sunnyvale, CA 94089
+- Google Building MP, 1195 Borregas Ave, Sunnyvale, CA 94089
 
  [Register now for Palo Alto!](https://usydevents.swoogo.com/palo_alto_reception/begin){: .btn .btn--primary .btn--large target="_blank" rel="noopener noreferrer" }
 
